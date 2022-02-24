@@ -13,6 +13,8 @@ linha4.innerText = "X";
 var linha5 = document.getElementById("linha-2_coluna-1");
 linha5.innerText = "X";
 
+var linha6 = document.getElementById("linha-1_coluna-3");
+linha6.innerText = "O";
 
 
 
